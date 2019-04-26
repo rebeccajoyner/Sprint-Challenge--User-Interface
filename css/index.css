@@ -101,6 +101,19 @@ p {
     justify-content: space-evenly;
 }
 
+
+.middle-content .boxes .box {
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
@@ -111,6 +124,7 @@ p {
     align-items: center;
     justify-content: center;
 }
+
 
 .bottom-content {
     display: flex;
